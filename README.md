@@ -56,3 +56,15 @@
 
 ```bash
 python mp4_cover_setter.py
+```
+## 第三方组件
+
+本工具调用 FFmpeg/FFprobe 处理媒体文件。
+
+FFmpeg 官方许可说明：  
+https://www.ffmpeg.org/legal.html
+
+FFmpeg 项目源码：  
+https://github.com/FFmpeg/FFmpeg
+
+请注意：FFmpeg 根据具体编译选项，可能适用 LGPL 或 GPL。若你重新分发带 FFmpeg 的 exe，请保留对应的 FFmpeg 许可声明和来源链接。

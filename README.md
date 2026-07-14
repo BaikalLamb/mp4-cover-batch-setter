@@ -1,5 +1,5 @@
-# mp4-cover-batch-setter
-# MP4 批量封面设置工具
+# mp4-cover-batch-setter/MP4 批量封面设置工具
+# 
 
 一个简单的 Windows 图形化工具，用于批量给 MP4 视频写入同一张内嵌封面图。
 
